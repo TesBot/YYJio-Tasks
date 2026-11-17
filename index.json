@@ -1,0 +1,20 @@
+{
+  "format": "yyjio-tasks",
+  "format_version": 1,
+  "updated": "2026-11-17",
+  "count": 1,
+  "packages": [
+    {
+      "id": "yyjio.daily-claim",
+      "name": "每日领取（示例）",
+      "author": "YYJio",
+      "version": "1.0.0",
+      "date": "2026-11-17",
+      "description": "示例任务包：先点主界面的「活动」，再点「每日」领取。用来演示格式，装好后可在编排里直接引用。",
+      "file": "packages/yyjio.daily-claim-1.0.0.yyjio-task",
+      "size": 865,
+      "sha256": "db6595dc3fbb5eac7e0b8b5e9ec32b92155d7a8ad2a703bcf6bbf14b38532be5",
+      "steps": 2
+    }
+  ]
+}
