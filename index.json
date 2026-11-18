@@ -1,8 +1,8 @@
 {
   "format": "yyjio-tasks",
   "format_version": 1,
-  "updated": "2026-11-17",
-  "count": 1,
+  "updated": "2026-11-18",
+  "count": 2,
   "packages": [
     {
       "id": "yyjio.daily-claim",
@@ -15,6 +15,18 @@
       "size": 865,
       "sha256": "db6595dc3fbb5eac7e0b8b5e9ec32b92155d7a8ad2a703bcf6bbf14b38532be5",
       "steps": 2
+    },
+    {
+      "id": "yyjio.8888",
+      "name": "笼梦祸津神超鬼王领取一组8888礼盒",
+      "author": "YYJio",
+      "version": "1.0.0",
+      "date": "2026-11-18",
+      "description": "从庭院活动页进入超鬼王商店领取一组8888礼盒，请在庭院启动，保证左上角第一个是活动图标",
+      "file": "packages/yyjio.8888-1.0.0.yyjio-task",
+      "size": 694890,
+      "sha256": "5314871f83e87136ba614ffe6f77221021892e465264fe38c91acdef032d6f74",
+      "steps": 7
     }
   ]
 }
